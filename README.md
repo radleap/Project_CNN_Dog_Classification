@@ -40,7 +40,7 @@ The selected MobileNetV2 trained model maintained an accuracy of 82% on unseen t
 See the requirements.txt file for necessary packages. 
 
 ## Data
-See directories "dogImages", "haarcascades", and "RandomImages" for supporting data.
+See directories "dogImages", "haarcascades", and "images" for supporting data.
 
 ## Outputs
 Apart from the "model_scratch" and "model_tranfer", all models are saved in the "models" direcetory.
