@@ -1,8 +1,8 @@
 ﻿[//]: # (Image References)
 
-[image1]: ./images/readme_phone_image.jpg "App Sample Output"
 
-[image2]: ./images/Results.jpg "Notebook Sample Output"
+[image2]: ./images/Results.JPG "Notebook Sample Output"
+[image1]: ./images/readme_phone_image.jpg "App Sample Output"
 
 
 ## Project: Dog Vision Convolutional Neural Network Prediction Application
