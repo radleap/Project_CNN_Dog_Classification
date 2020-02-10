@@ -1,7 +1,8 @@
 ﻿[//]: # (Image References)
 
-[image1]: ./images/readme_phone_image.jpg "Sample Output"
-[image2]: ./images/Results.jpg "Sample Output"
+[image1]: ./images/readme_phone_image.jpg "App Sample Output"
+
+[image2]: ./images/Results.jpg "Notebook Sample Output"
 
 
 ## Project: Dog Vision Convolutional Neural Network Prediction Application
@@ -43,7 +44,7 @@ See the requirements.txt file for necessary packages.
 See directories "dogImages", "haarcascades", and "images" for supporting data.
 
 ## Outputs
-Apart from the "model_scratch" and "model_tranfer", all models are saved in the "models" direcetory.
+Apart from the "model_scratch" and "model_transfer", all models are saved in the "models" direcetory.
 
 ## Motivation
    CNN for dog detection, build something fun, and practice new learnings.
